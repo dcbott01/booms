@@ -51,7 +51,7 @@ create_session_url = "https://api.booms.io/v1/auth/create-session"
 # Headers for the session creation request
 headers = {
     "accept": "*/*",
-    "accept-encoding": "gzip, deflate, br, zstd",
+    "accept-encoding": "gzip, ",
     "accept-language": "en-US,en;q=0.9",
     "content-type": "application/json",
     "origin": "https://booms.io",
